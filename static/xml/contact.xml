@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="contact.css" ?>
+<BusinessCards>
+	<Head>Contact Us </Head>
+	<BusinessCard>  
+		<name>Agape </name>
+		<phone type="mobile" primary="primary">(+234) 814-456-4658</phone>
+		<phone type="work"> (+234) 815-986-4685</phone>
+		<phone type="fax">(+234) 704-121-4568</phone>
+		<email>agapeakpokodje@yahoo.com</email>
+	</BusinessCard>
+
+	<BusinessCard>
+		<name>Someone else</name>
+		<phone type="mobile" >(415) 555-0000</phone>
+		<phone type="work" primary="primary"> (800) 555-1111</phone>
+		<phone type="fax">(510) 555-1212</phone>
+		<email>someone@else.com</email>
+	</BusinessCard>
+  
+</BusinessCards>
